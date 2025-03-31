@@ -22,4 +22,4 @@ En SPSS, STATA o Python:
 
 ## Créditos
 
-Este trabajo fue generado en conjunto con un sistema de asistencia IA especializado en análisis de datos y SPSS v27.
+Carlos Hernández - Analista de Datos.
