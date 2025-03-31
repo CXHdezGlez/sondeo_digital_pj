@@ -1,5 +1,5 @@
 
-# Submuestra Nacional con Ajuste de Raking
+# Submuestra nacional con ajuste de Raking
 
 Este repositorio contiene la documentación técnica, scripts y base de datos correspondientes a la extracción y ajuste de una submuestra nacional ponderada por:
 
