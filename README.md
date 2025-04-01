@@ -9,9 +9,7 @@ Este repositorio contiene la documentación técnica, scripts y base de datos co
 ## Contenido
 
 - `submuestra_1200_estado_raking.xlsx`: base de datos final con 1,200 casos y campos de ponderación
-- `grafico_edad_sexo_raking.png`: validación gráfica del ajuste por edad y sexo
 - `documentacion_submuestra_raking.md`: documentación técnica completa
-- `documentacion_submuestra_raking.html`: versión HTML para incrustar o publicar
 - `README.md`: este archivo
 
 ## Uso sugerido
