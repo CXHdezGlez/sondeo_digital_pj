@@ -71,8 +71,8 @@ Entre quienes creen que “será igual”, el 80.29% lo dice en sentido negativo
 
 
 # Análisis de escenarios agregados
-## Escenario 1: Si votan solo los menores de 34 años
 
+`Escenario 1: Si votan solo los menores de 34 años`
 Probabilidad de acudir a votar
 El 48.3% de los jóvenes declara que es muy probable que vote, superando el promedio nacional (41.1%).
 Sin embargo, un considerable 31.5% dice que no lo hará, mientras que el 20.2% se divide entre “algo probable” (12.1%) y “poco probable” (8.1%).
@@ -85,8 +85,8 @@ El 56.1% considera que la reforma empeorará la justicia, reflejando un esceptic
 Solo el 30.2% cree que mejorará, y 13.6% opina que no cambiará nada.
 Entre quienes creen que será igual, predomina una visión negativa (81.8%), con apenas un 18.2% optimista.
 
-## Escenario 2: Si votan solo quienes conocen el proceso electoral
 
+`Escenario 2: Si votan solo quienes conocen el proceso electoral`
 Probabilidad de acudir a votar
 El 44.4% se declara muy probable votante, cifra equivalente al promedio nacional, lo cual indica que el conocimiento no garantiza mayor participación.
 Aun con conocimiento, el 37.4% dice que no votará, lo cual es llamativo.
@@ -99,7 +99,8 @@ Aunque tienen mayor conocimiento, 59.4% piensa que la reforma empeorará.
 El 31.7% cree que mejorará.
 Incluso entre este grupo informado, la visión crítica supera ampliamente a la favorable.
 
-## Escenario 3: Si votan solo los mayores de 55 años
+
+`Escenario 3: Si votan solo los mayores de 55 años`
 
 Probabilidad de acudir a votar
 Solo el 39.7% se considera muy probable votante, menor al promedio nacional, y el 47.6% declara que no acudirá.
