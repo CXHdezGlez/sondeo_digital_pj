@@ -65,13 +65,7 @@ df_sub['ajuste_edad_sexo'] = df_sub['edad_sexo'].map(ajuste_dict)
 df_sub['peso_raking'] = df_sub['peso_estado'] * df_sub['ajuste_edad_sexo']
 ```
 
-## 5. Validación gráfica
-
-Gráfico final de distribución ponderada por edad y sexo:
-
-![Distribución Edad-Sexo Raking](grafico_edad_sexo_raking.png)
-
-## 6. Resultado final
+## 5. Resultado final
 
 Archivos exportados:
 
