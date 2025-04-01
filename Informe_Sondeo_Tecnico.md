@@ -73,6 +73,7 @@ Entre quienes creen que “será igual”, el 80.29% lo dice en sentido negativo
 # Análisis de escenarios agregados
 
 `Escenario 1: Si votan solo los menores de 34 años`
+
 Probabilidad de acudir a votar
 El 48.3% de los jóvenes declara que es muy probable que vote, superando el promedio nacional (41.1%).
 Sin embargo, un considerable 31.5% dice que no lo hará, mientras que el 20.2% se divide entre “algo probable” (12.1%) y “poco probable” (8.1%).
@@ -87,6 +88,7 @@ Entre quienes creen que será igual, predomina una visión negativa (81.8%), con
 
 
 `Escenario 2: Si votan solo quienes conocen el proceso electoral`
+
 Probabilidad de acudir a votar
 El 44.4% se declara muy probable votante, cifra equivalente al promedio nacional, lo cual indica que el conocimiento no garantiza mayor participación.
 Aun con conocimiento, el 37.4% dice que no votará, lo cual es llamativo.
@@ -115,7 +117,8 @@ El 59.5% cree que la elección empeorará la justicia.
 Aun así, un 35.3% cree que mejorará, lo cual representa el mayor porcentaje optimista entre los escenarios.
 Entre quienes opinan que no cambiará, también predomina la visión negativa (79.9%).
 
-Escenario 4: Si votan solo quienes califican con 7 puntos o más al PJF
+`Escenario 4: Si votan solo quienes califican con 7 puntos o más al PJF`
+
 Probabilidad de acudir a votar
 Este grupo, con alta confianza institucional, es el menos probable a votar:
 Solo 32.1% se declara muy probable votante.
