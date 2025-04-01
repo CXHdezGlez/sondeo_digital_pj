@@ -1,5 +1,5 @@
 
-# Informe Final sobre la Elección del Poder Judicial Federal (2025)
+# Informe Final (resumen) sobre la Elección del Poder Judicial Federal (2025)
 
 ---
 
@@ -154,4 +154,3 @@ Este informe presenta los principales hallazgos de un estudio de opinión públi
 
 ---
 
-**¿Deseas una versión Word o PDF de este informe? También puedo entregarte las gráficas integradas en un Excel.**
