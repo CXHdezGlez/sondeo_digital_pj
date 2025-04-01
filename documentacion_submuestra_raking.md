@@ -1,5 +1,5 @@
 
-# Documentación Técnica del Proceso de Submuestreo y Raking
+# Documentación técnica del proceso de submuestreo y raking
 
 ## 1. Objetivo del proceso
 
