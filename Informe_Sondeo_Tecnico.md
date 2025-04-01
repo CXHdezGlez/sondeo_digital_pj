@@ -655,7 +655,7 @@ Adultos informados pero críticos y reacios a votar (Clúster 2): muestran escep
 Adultos con alta apatía emocional (Clúster 3): conocen el proceso, pero no conectan afectivamente, lo que limita su movilización.
 
 
-## 10. Consideraciones finales y cierre
+## Consideraciones finales y cierre
 
 El presente informe ha documentado de forma exhaustiva los resultados del sondeo digital nacional sobre la elección del Poder Judicial, considerando múltiples dimensiones: conocimiento del proceso, intención de voto, confianza institucional, emociones políticas, mecanismos de información y expectativas de la reforma.
 
