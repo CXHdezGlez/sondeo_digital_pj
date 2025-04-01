@@ -1,5 +1,5 @@
 
-# Reporte de Hallazgos Comparativos
+# Reporte de hallazgos comparativos
 
 Este reporte resume los principales hallazgos derivados de los análisis comparativos realizados sobre la submuestra nacional, ponderada por región, edad y sexo.
 
