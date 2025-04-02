@@ -564,74 +564,93 @@ Sexo y región geográfica no son significativos.
 
 El modelo indica que la intención de voto está asociada más a factores individuales como la edad y emoción, mientras que el conocimiento sobre el proceso muestra una relación contraintuitiva, al estar negativamente asociado con la probabilidad de votar. Esta relación invertida podría indicar que quienes conocen el proceso tienen también una visión crítica del mismo, lo que reduce su disposición a participar.
 
-- Por grupo de edad
-Grupo 1: 18 a 24 años
+**Por grupo de edad**
+
+- Grupo 1: 18 a 24 años
+
 χ² = 36.676, p < .001, R² Nagelkerke = .249
 Única variable significativa: Conocimiento electoral
 B = 2.538, p < .001, Exp(B) = 12.649
 
 En este grupo, el conocimiento tiene un efecto muy fuerte y positivo. Quienes conocen el proceso son mucho más propensos a votar. Es el grupo donde el efecto del conocimiento es más claro.
 
-Grupo 2: 25 a 34 años
+- Grupo 2: 25 a 34 años
+
 χ² = 5.107, p = .024, R² Nagelkerke = .026
 Variable significativa: Conocimiento electoral
 B = 0.900, p = .030, Exp(B) = 2.459
 También en este grupo el conocimiento incrementa la probabilidad de voto, aunque el efecto es más moderado. Sin embargo, el modelo explica muy poca varianza.
 
-Grupo 3: 35 a 44 años
+- Grupo 3: 35 a 44 años
+
 χ² = 21.392, p < .001, R² Nagelkerke = .119
 Variable significativa: Conocimiento electoral
 B = -2.476, p < .001, Exp(B) = 0.084
 Contrario a los más jóvenes, en este grupo el conocimiento reduce fuertemente la probabilidad de votar. Se mantiene la relación negativa observada en el modelo general.
 
-Grupo 4: 45 a 54 años
+- Grupo 4: 45 a 54 años
+
 χ² = 10.976, p = .001, R² Nagelkerke = .071
 Variable significativa: Conocimiento electoral
 B = -2.478, p = .016, Exp(B) = 0.084
 Se repite el patrón negativo del grupo anterior, lo que sugiere una tendencia en los grupos de edad media a que el conocimiento esté asociado a un mayor escepticismo electoral.
 
-Grupo 5: 55 a 64 años
+- Grupo 5: 55 a 64 años
+
 χ² = 6.574, p = .010, R² Nagelkerke = .056
 Variable significativa: Conocimiento electoral
 B = -1.975, p = .042, Exp(B) = 0.139
 Persistencia del efecto negativo, aunque con menor intensidad. El conocimiento sigue reduciendo la intención de votar.
 
-Grupo 6: 65 años en adelante
+- Grupo 6: 65 años en adelante
+
 χ² = 1.683, p = .195 → No significativo
 En adultos mayores, el conocimiento no tiene efecto. Este grupo muestra indiferencia cognitiva, es decir, saber o no sobre el proceso no altera su intención de participar.
 
-- Por sexo
-Hombres
+**Por sexo**
+
+- Hombres
+
 χ² = 1.528, p = .216 → Modelo no significativo
 Conocimiento electoral: B = -0.378, p = .685
 El conocimiento no se relaciona con la intención de votar en los hombres.
 
-Mujeres
+- Mujeres
+
 χ² = 0.567, p = .452 → Modelo no significativo
 Conocimiento electoral: B = 0.168, p = .451
 Tampoco hay efecto significativo entre las mujeres.
 
-- Modelo con interacciones (edad y sexo)
+**Modelo con interacciones (edad y sexo)**
+
 Significancia general:
 χ² = 46.815, gl = 5, p < .001
 Nagelkerke = .052
+
 Variables significativas:
 Conocimiento: B = 1.895, p = .030, Exp(B) = 6.651
 Edad: B = 0.881, p < .001, Exp(B) = 2.412
+
 Interacción conocimiento-edad: B = -0.857, p < .001, Exp(B) = 0.425
-Interpretación:
+
 El efecto del conocimiento depende fuertemente de la edad. En personas jóvenes, conocer el proceso incrementa la intención de voto, pero en personas mayores ese efecto se revierte.
 El sexo y su interacción con el conocimiento no son significativos.
 Este modelo confirma la naturaleza condicional del conocimiento electoral: su impacto varía según la etapa de la vida.
 
-Conclusión general
+** Conclusión general**
+
 Edad y emoción son predictores consistentes y relevantes de la intención de voto.
+
 El conocimiento sobre el proceso electoral tiene un efecto complejo y no lineal:
-Positivo en jóvenes (especialmente de 18 a 34 años)
-Negativo en adultos de 35 a 64 años
-Irrelevante en mayores de 65
+
+- Positivo en jóvenes (especialmente de 18 a 34 años)
+- Negativo en adultos de 35 a 64 años
+- Irrelevante en mayores de 65
+
 El sexo no tiene efecto directo ni en interacción.
+
 La confianza institucional y los medios de información tienen efectos más débiles o marginales.
+
 El modelo con interacción confirma que el conocimiento solo es movilizador en segmentos jóvenes.
 
 
