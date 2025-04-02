@@ -707,6 +707,7 @@ Las principales contribuciones provienen de:
 - Esto sugiere que la dimensión está fuertemente influenciada por los pesos ajustados del diseño muestral, lo cual tiene sentido porque busca representatividad demográfica ajustada por grupo de edad. No es tanto un eje sustantivo, sino un factor de calibración del modelo.
 
 **Medidas discriminantes**
+
 Las variables con mayor poder explicativo del espacio factorial fueron:
 
 | Variable | Dim 1 | Dim 2 | Media |
