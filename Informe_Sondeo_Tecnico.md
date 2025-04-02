@@ -4,12 +4,16 @@ Informe de resultados del sondeo digital sobre la elección del Poder Judicial e
 Este informe presenta los resultados del sondeo digital nacional sobre percepciones, conocimiento e intención de voto en torno a la elección de ministras, ministros, jueces y magistrados del Poder Judicial federal. El ejercicio se desarrolló con una submuestra representativa de 1,200 casos, ajustada por entidad federativa, sexo y grupo de edad, mediante técnicas de postestratificación y raking.
 # Metodología
 Tamaño de muestra: 1,200 casos
+
 Procedencia: Submuestra extraída de un universo mayor de encuestados digitales.
+
 Ajustes muestrales:
 Ponderador por estado (peso_estado)
 Ponderador por edad y sexo (ajuste_edad_sexo)
 Ponderador combinado final (peso_raking)
+
 Instrumento: Cuestionario autoaplicado con escalas, preguntas cerradas y opciones múltiples.
+
 # Perfil sociodemográfico de la muestra
 La composición de la muestra ponderada reproduce fielmente la estructura de la población electoral mexicana por entidad federativa, sexo y grupos de edad.
 Tabla 1. Distribución por sexo y grupo de edad (ponderada)
