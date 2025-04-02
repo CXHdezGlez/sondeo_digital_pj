@@ -3,16 +3,79 @@ Informe de resultados del sondeo digital sobre la elección del Poder Judicial e
 # Introducción
 Este informe presenta los resultados del sondeo digital nacional sobre percepciones, conocimiento e intención de voto en torno a la elección de ministras, ministros, jueces y magistrados del Poder Judicial federal. El ejercicio se desarrolló con una submuestra representativa de 1,200 casos, ajustada por entidad federativa, sexo y grupo de edad, mediante técnicas de postestratificación y raking.
 # Metodología
-Tamaño de muestra: 1,200 casos
 
-Procedencia: Submuestra extraída de un universo mayor de encuestados digitales.
+`Tipo de estudio`
+El presente estudio se basa en un sondeo digital de opinión pública, diseñado para recoger percepciones, actitudes, conocimientos e intenciones de voto de la ciudadanía mexicana ante la propuesta de elección directa de cargos del Poder Judicial federal. El enfoque es cuantitativo, transversal y no experimental, con análisis descriptivos e inferenciales.
 
-Ajustes muestrales:
-Ponderador por estado (peso_estado)
-Ponderador por edad y sexo (ajuste_edad_sexo)
-Ponderador combinado final (peso_raking)
+`Población objetivo`
+La población objetivo corresponde a ciudadanos y ciudadanas mexicanas en edad de votar (18 años o más), con residencia en México y con acceso a plataformas digitales. La muestra fue ajustada para reflejar las distribuciones poblacionales oficiales según:
 
-Instrumento: Cuestionario autoaplicado con escalas, preguntas cerradas y opciones múltiples.
+Entidad federativa
+
+- Grupo de edad (6 rangos)
+
+- Sexo (hombre / mujer)
+
+
+`Procedimiento muestral`
+
+El procedimiento se desarrolló en dos fases:
+
+a) Selección de la submuestra representativa
+De un universo de 3,404 entrevistas digitales válidas, se extrajo una submuestra controlada de 1,200 casos, garantizando:
+
+Proporciones exactas por estado (±0.00%)
+
+Representación de todos los grupos de edad y sexo
+
+b) Ajustes post-muestrales
+Se aplicaron técnicas de postestratificación y raking bivariado, utilizando las siguientes variables de calibración:
+
+- Estado
+
+- Edad
+
+- Sexo
+
+Esto permitió asignar ponderadores a cada caso:
+
+- peso_estado: ajusta por proporción estatal.
+
+- ajuste_edad_sexo: factor corrector por edad y sexo.
+
+- peso_raking: ponderador final combinado.
+
+`Margen de error y nivel de confianza`
+Con una muestra de n = 1,200 casos y un diseño sin efectos complejos, el margen de error estimado es de ±2.8 puntos porcentuales, bajo el supuesto de muestreo aleatorio simple y un nivel de confianza del 95%.
+
+🔍 Este margen aplica a estimaciones para el total de la muestra. En análisis por subgrupos (ej. edad, sexo, región), el margen puede ser mayor.
+
+`Instrumento y levantamiento`
+Se empleó un cuestionario estructurado, autoaplicado a través de una plataforma digital. El cuestionario incluyó:
+
+- Preguntas de opción múltiple (simples y combinadas)
+
+- Escalas de actitud (0 a 10)
+
+- Variables sociodemográficas
+
+El levantamiento se realizó entre febrero y marzo de 2025.
+
+`Análisis estadístico`
+Los análisis se realizaron con IBM SPSS Statistics v27 y Python. Se aplicaron los siguientes métodos:
+
+- Análisis de frecuencias y proporciones ponderadas
+
+- Pruebas de significancia (χ², ANOVA, pruebas t)
+
+- Modelos de regresión logística binaria (odds ratios)
+
+- Análisis de correspondencias múltiples (ACM)
+
+- Análisis de conglomerados jerárquicos (Ward)
+
+
+
 
 # Perfil sociodemográfico de la muestra
 La composición de la muestra ponderada reproduce fielmente la estructura de la población electoral mexicana por entidad federativa, sexo y grupos de edad.
