@@ -637,7 +637,7 @@ El efecto del conocimiento depende fuertemente de la edad. En personas jóvenes,
 El sexo y su interacción con el conocimiento no son significativos.
 Este modelo confirma la naturaleza condicional del conocimiento electoral: su impacto varía según la etapa de la vida.
 
-** Conclusión general**
+**Conclusión general**
 
 Edad y emoción son predictores consistentes y relevantes de la intención de voto.
 
@@ -686,8 +686,10 @@ El análisis identificó dos dimensiones principales:
 
 Este porcentaje de varianza es adecuado para un ACM con múltiples variables categóricas, indicando que la representación bidimensional captura más de la mitad de la información estructural relevante del espacio de datos.
 
-Interpretación de las dimensiones
-Dimensión 1: diferenciación según edad, confianza institucional y probabilidad de votar
+**Interpretación de las dimensiones**
+
+- Dimensión 1: diferenciación según edad, confianza institucional y probabilidad de votar
+
 Las variables que más contribuyen a esta dimensión son:
 Edad (0.876)
 Confianza en el PJ (0.228)
@@ -696,13 +698,15 @@ Región (0.105)
 
 Esta dimensión puede interpretarse como un eje generacional y actitudinal hacia el sistema judicial y la participación. Quienes se agrupan hacia un polo muestran mayor edad, más confianza en el PJ y mayor intención de voto; en el otro extremo, están los más jóvenes, con menor confianza y baja intención de votar.
 
-Dimensión 2: eje socio-demográfico ponderado
-Las principales contribuciones provienen de:
-Edad (0.988)
-Peso muestral (0.990)
-Esto sugiere que la dimensión está fuertemente influenciada por los pesos ajustados del diseño muestral, lo cual tiene sentido porque busca representatividad demográfica ajustada por grupo de edad. No es tanto un eje sustantivo, sino un factor de calibración del modelo.
+- Dimensión 2: eje socio-demográfico ponderado
 
-Medidas discriminantes
+Las principales contribuciones provienen de:
+
+- Edad (0.988)
+- Peso muestral (0.990)
+- Esto sugiere que la dimensión está fuertemente influenciada por los pesos ajustados del diseño muestral, lo cual tiene sentido porque busca representatividad demográfica ajustada por grupo de edad. No es tanto un eje sustantivo, sino un factor de calibración del modelo.
+
+**Medidas discriminantes**
 Las variables con mayor poder explicativo del espacio factorial fueron:
 
 | Variable | Dim 1 | Dim 2 | Media |
@@ -718,7 +722,7 @@ Las variables con mayor poder explicativo del espacio factorial fueron:
 
 Esto refuerza la interpretación: las variables actitudinales (confianza e intención de votar) están condicionadas principalmente por la edad y el contexto regional, más que por el sexo o el conocimiento aislado.
 
-Conclusión
+**Conclusión**
 El ACM evidencia una estructura latente generacional y actitudinal en torno a la elección judicial. Los factores que más discriminan entre perfiles ciudadanos son la edad, seguida de la confianza en el Poder Judicial y la probabilidad de voto. Además, se observa un patrón territorial, donde la región sur se distancia de las demás en términos de disposición a participar.
 Este análisis permite visualizar que la desinformación sobre el proceso no es el único obstáculo para la participación: la confianza institucional, la edad y el contexto territorial también desempeñan un papel determinante.
 
@@ -728,106 +732,161 @@ Este análisis permite visualizar que la desinformación sobre el proceso no es 
 
 
 # Análisis de conglomerados - Segmentación de perfiles ciudadanos
-Metodología utilizada
-El análisis jerárquico de conglomerados se ha realizado con el método de Ward, el cual minimiza la varianza dentro de los grupos al formar conglomerados. El procedimiento se aplicó a los casos ponderados por el factor de expansión (peso_raking), lo que asegura que la segmentación refleje la estructura poblacional del sondeo.
-Se generaron los siguientes insumos:
-Gráfico de distancias: que muestra el nivel de similitud/diferencia entre los casos agrupados.
-Dendrograma: que permite identificar visualmente el número óptimo de conglomerados, observando los puntos donde se produce un incremento significativo en la distancia de fusión.
 
-Interpretación del gráfico de distancias
+`Metodología utilizada`
+
+El análisis jerárquico de conglomerados se ha realizado con el método de Ward, el cual minimiza la varianza dentro de los grupos al formar conglomerados. El procedimiento se aplicó a los casos ponderados por el factor de expansión (peso_raking), lo que asegura que la segmentación refleje la estructura poblacional del sondeo.
+
+Se generaron los siguientes insumos:
+- Gráfico de distancias: que muestra el nivel de similitud/diferencia entre los casos agrupados.
+- Dendrograma: que permite identificar visualmente el número óptimo de conglomerados, observando los puntos donde se produce un incremento significativo en la distancia de fusión.
+
+`Interpretación del gráfico de distancias`
+
 El gráfico de distancias revela un patrón típico en este tipo de análisis:
 En las primeras etapas (del lado izquierdo del gráfico), la fusión ocurre entre casos muy similares.
 A medida que avanzamos hacia la derecha, se incrementa bruscamente la distancia entre los grupos fusionados, lo cual indica que los conglomerados resultantes son más disímiles entre sí.
 
 Punto de corte: En el eje horizontal puede observarse un aumento considerable en la distancia entre fusiones a partir del nivel 10 de distancia aglomerativa, lo que sugiere que una solución de entre 3 y 4 conglomerados podría capturar de manera óptima la heterogeneidad de la muestra.
 
-Dendrograma: interpretación visual
+`Dendrograma: interpretación visual`
 El dendrograma confirma esta hipótesis. Se identifican tres grandes ramas principales que agrupan a la mayoría de los casos, antes de que se produzcan fusiones a distancias mayores.
-Conglomerado 1: agrupa un gran número de casos, lo cual sugiere un perfil mayoritario o dominante.
-Conglomerado 2 y 3: contienen subconjuntos más homogéneos, probablemente con características sociodemográficas o actitudinales distintivas respecto al conocimiento sobre la elección judicial, confianza institucional o intención de voto.
+- Conglomerado 1: agrupa un gran número de casos, lo cual sugiere un perfil mayoritario o dominante.
+- Conglomerado 2 y 3: contienen subconjuntos más homogéneos, probablemente con características sociodemográficas o actitudinales distintivas respecto al conocimiento sobre la elección judicial, confianza institucional o intención de voto.
 
-Clúster 1: Jóvenes digitalizados con confianza crítica
-Composición sociodemográfica
+`Clúster 1: Jóvenes digitalizados con confianza crítica`
+
+**Composición sociodemográfica**
+
 Sexo: Equilibrado (49.9% hombres, 50.1% mujeres).
+
 Edad predominante: Alta presencia de jóvenes:
-18-24 años: 26.8%
-25-34 años: 30.8%
-35-44 años: 34.4%
-Sin representación en mayores de 45 años.
+- 18-24 años: 26.8%
+- 25-34 años: 30.8%
+- 35-44 años: 34.4%
+- Sin representación en mayores de 45 años.
+
 Actitudes y conocimiento
+
 Alto conocimiento electoral: 85.3% saben que juezas y jueces se eligen.
+
 Intención de voto: Alta:
+
 46.3% consideran “muy probable” que acudan a votar.
+
 Solo 5.4% señalan que no lo harán.
+
 Medios de información
-Altísima dependencia de redes sociales: 68.9%
-Complemento digital: 21.6% usan portales web.
-Otros medios (TV, radio, prensa) casi nulos.
+
+- Altísima dependencia de redes sociales: 68.9%
+- Complemento digital: 21.6% usan portales web.
+- Otros medios (TV, radio, prensa) casi nulos.
+
 Emoción motivadora
+
 Esperanza (33.1%) y compromiso (28.9%) son dominantes.
 Se registra también entusiasmo (8.4%) y cierto nivel de desconfianza (desesperanza 11.9%).
+
 Región
+
 Mayoría en el Centro (61.5%), seguidos del Sur (26.8%) y menor presencia en el Norte (11.7%).
 
 Este clúster representa una base joven, informada, digitalizada, que muestra una orientación crítica pero comprometida. Son votantes potenciales con altos niveles de conocimiento y emociones positivas como esperanza o compromiso. Este grupo puede ser movilizado a través de estrategias digitales y mensajes que conecten con valores de renovación institucional.
 
-Clúster 2: Escépticos informados con desconfianza institucional
-Composición sociodemográfica
+
+`Clúster 2: Escépticos informados con desconfianza institucional`
+
+**Composición sociodemográfica**
+
+
 Sexo: 46.3% hombres, 53.7% mujeres.
+
 Edad: Predominan adultos jóvenes (25-44 años).
-25-34 años: 88.2%
-35-44 años: 11.8%
+
+- 25-34 años: 88.2%
+- 35-44 años: 11.8%
+
 Sin presencia de menores de 25 ni mayores de 45.
+
 Actitudes y conocimiento
+
 Conocimiento elevado: 90.2% saben que jueces se eligen.
+
 Poca intención de votar:
+
 47.4% consideran “nada probable” acudir a las urnas.
 Solo 39.9% se declaran “muy probables”.
+
 Medios de información
-Predomina el uso de redes sociales (62.1%) y portales web (26.1%).
-Más diversificación en medios oficiales (4.2%) y periódicos (2.2%).
+
+- Predomina el uso de redes sociales (62.1%) y portales web (26.1%).
+- Más diversificación en medios oficiales (4.2%) y periódicos (2.2%).
+
 Emoción motivadora
+
 Compromiso (30.4%) y esperanza (44.9%) siguen presentes.
+
 Pero destaca una carga crítica: desesperanza (2.7%), apatía (0.6%), y desánimo (2.8%).
+
 Región
+
 Predominan en el Centro (52.9%) y Norte (26.9%), menor representación en el Sur (21.1%).
 
 Este grupo tiene un perfil cívicamente informado, pero presenta altos niveles de escepticismo o desconfianza institucional, lo que afecta su disposición a participar electoralmente. Aunque informados, son más resistentes al discurso institucional. Las estrategias de persuasión deberán enfocarse en reconstruir la credibilidad y no solo en difundir información.
 
-Clúster 3: Adultos tradicionales con desconocimiento y apatía
-Composición sociodemográfica
+`Clúster 3: Adultos tradicionales con desconocimiento y apatía`
+
+**Composición sociodemográfica**
+
 Sexo: Balanceado (47.9% hombres, 52.1% mujeres).
+
 Edad: Grupo eminentemente adulto:
+
 45-54 años: 99.4%
 Casi nula presencia en menores de 45 y mayores de 54 años.
+
 Actitudes y conocimiento
+
 Alto conocimiento electoral: 92.4%
+
 Intención de voto baja:
 41.6% entre “poco” y “nada probable”.
 Solo 44.5% dicen que es “muy probable”.
+
 Medios de información
+
 Similar al Clúster 1, pero menor intensidad:
-Redes sociales: 61.5%
-Portales web: 21.6%
-Búsqueda en internet: 5.9%
-Participación de medios tradicionales muy baja (radio, TV, periódicos < 3%).
+
+- Redes sociales: 61.5%
+- Portales web: 21.6%
+- Búsqueda en internet: 5.9%
+- Participación de medios tradicionales muy baja (radio, TV, periódicos < 3%).
+
 Emoción motivadora
+
 Predominan emociones más distantes o neutras:
-Esperanza (35.5%)
-Compromiso (36.9%)
-Alta presencia de indiferencia emocional (4.9%).
+
+- Esperanza (35.5%)
+- Compromiso (36.9%)
+- Alta presencia de indiferencia emocional (4.9%).
+
 Región
+
 Mayor equilibrio geográfico:
-Centro (60.6%)
-Norte (20.6%)
-Sur (19.5%)
+
+-Centro (60.6%)
+-Norte (20.6%)
+-Sur (19.5%)
 
 Este clúster concentra adultos que, si bien conocen el proceso, muestran apatía o indiferencia afectiva hacia la elección. La intención de voto está comprometida por una falta de conexión emocional más que por desconocimiento. Intervenciones en este grupo deben apuntar a construir relevancia personal y sentido de pertenencia con la elección.
-Conclusión general
+
+**Conclusión general**
+
 El análisis de clústeres revela tres perfiles ciudadanos distintos:
-Jóvenes informados con alto potencial de participación (Clúster 1): motivados por esperanza, acceden a medios digitales.
-Adultos informados pero críticos y reacios a votar (Clúster 2): muestran escepticismo institucional, requieren estrategias de confianza.
-Adultos con alta apatía emocional (Clúster 3): conocen el proceso, pero no conectan afectivamente, lo que limita su movilización.
+
+- Jóvenes informados con alto potencial de participación (Clúster 1): motivados por esperanza, acceden a medios digitales.
+- Adultos informados pero críticos y reacios a votar (Clúster 2): muestran escepticismo institucional, requieren estrategias de confianza.
+- Adultos con alta apatía emocional (Clúster 3): conocen el proceso, pero no conectan afectivamente, lo que limita su movilización.
 
 
 ## Consideraciones finales y cierre
