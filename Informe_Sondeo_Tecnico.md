@@ -135,13 +135,6 @@ Entre quienes creen que “será igual”, el 80.29% lo dice en sentido negativo
 
 
 
-
-
-
-
-
-
-
 # Análisis de escenarios agregados
 
 `Escenario 1: Si votan solo los menores de 34 años`
@@ -257,194 +250,273 @@ La confianza en el Poder Judicial no se traduce en activación electoral, lo cua
 
 
 # Análisis comparativo por grupos
-Conocimiento sobre la elección judicial
+
+`Conocimiento sobre la elección judicial`
+
 Por sexo
-50.6% de los hombres respondió que sabía que los cargos judiciales se eligen, contra 49.4% de las mujeres.
+
+- 50.6% de los hombres respondió que sabía que los cargos judiciales se eligen, contra 49.4% de las mujeres.
+
 Aunque la diferencia parece pequeña, la prueba de chi-cuadrado arroja un valor significativo (χ² = 14.437, p < .001), lo cual indica una asociación estadísticamente significativa entre sexo y conocimiento.
+
 Medidas de asociación
+
 V de Cramer: 0.110 → Asociación débil, pero significativa.
 Aunque la magnitud de la asociación es baja, los hombres tienen mayor nivel de conocimiento sobre el mecanismo electoral judicial. Esto puede estar vinculado con factores de acceso a información o diferencias en interés político.
 
 Por grupo de edad
-El conocimiento es más alto en personas de 25 a 34 años (21.7%), pero disminuye en los extremos (18-24 y 65+).
+
+- El conocimiento es más alto en personas de 25 a 34 años (21.7%), pero disminuye en los extremos (18-24 y 65+).
+
 La asociación es significativa (χ² = 18.456, p = .002).
+
 Medidas de asociación
+
 V de Cramer: 0.125 → Asociación baja pero significativa.
 Existe un patrón etario claro: los grupos jóvenes (18-24) y adultos mayores tienen niveles más bajos de conocimiento. Esto sugiere brechas generacionales en la información cívica.
 
 Por región geográfica
-Las personas del Centro muestran mucho mayor conocimiento (58.7%) que las del Norte (18.7%) y Sur (22.6%).
+
+- Las personas del Centro muestran mucho mayor conocimiento (58.7%) que las del Norte (18.7%) y Sur (22.6%).
+
 Asociación significativa (χ² = 16.417, p < .001).
 
 Medidas de asociación
+
 V de Cramer: 0.117 → Asociación moderada-baja pero clara.
 La región Centro (posiblemente influida por CDMX y zonas urbanas) presenta una ventaja clara en términos de exposición a información institucional.
 
-Confianza en el Poder Judicial
+`Confianza en el Poder Judicial`
 
 Por sexo
+
 - Las mujeres presentan una media de confianza más alta (aproximadamente 6.5) en comparación con los hombres (cerca de 6.3) en una escala del 0 al 10.
+
 Significancia estadística
+
 F = 1.331
 p = 0.249 → No significativa
-Interpretación
+
 Aunque se observa una ligera diferencia en las medias de confianza entre hombres y mujeres, esta diferencia no alcanza significancia estadística. Es decir, no se puede afirmar con certeza que el sexo esté asociado a una variación real en el nivel de confianza en el Poder Judicial.
+
 El valor de F bajo y el nivel de significancia (p > .05) indican que la variabilidad observada entre los grupos podría deberse al azar. Por lo tanto, aunque el gráfico sugiere una mayor confianza entre las mujeres, esta diferencia no es concluyente desde el punto de vista estadístico.
 
 Por grupo de edad
+
 - La confianza aumenta progresivamente entre los grupos jóvenes hasta los 35-44 años, donde alcanza su punto máximo (media ≈ 7.2).
 - A partir de los 45 años, la confianza disminuye de manera marcada, con el grupo de 55-64 años presentando el nivel más bajo (media ≈ 5.8), y un leve repunte entre quienes tienen 65 años o más.
+
 Significancia estadística
 F = 3.702
 p = 0.002 → Significativa
+
 La prueba ANOVA muestra diferencias estadísticamente significativas entre los grupos de edad. El valor de F alto y el nivel de significancia (p < .01) indican que la edad sí influye de manera relevante en el nivel de confianza en el Poder Judicial.
+
 El patrón sugiere un mayor optimismo o confianza en edades intermedias (especialmente 35-44 años), mientras que los adultos mayores y los más jóvenes presentan niveles más bajos. Esto podría reflejar experiencias institucionales diferenciadas o grados de exposición e involucramiento político distintos.
 
 Por estado
-Existen fuertes diferencias estatales en la confianza en el Poder Judicial. Por ejemplo:
-Estados con mayor confianza: Baja California Sur, Ciudad de México, Sinaloa, Tlaxcala y Yucatán (medias cercanas a 8 o más).
-Estados con menor confianza: Hidalgo, Guanajuato, Puebla, Colima (medias por debajo de 5).
+
+- Existen fuertes diferencias estatales en la confianza en el Poder Judicial. Por ejemplo:
+- Estados con mayor confianza: Baja California Sur, Ciudad de México, Sinaloa, Tlaxcala y Yucatán (medias cercanas a 8 o más).
+- Estados con menor confianza: Hidalgo, Guanajuato, Puebla, Colima (medias por debajo de 5).
+
 Significancia estadística
 F = 3.404
 p = 0.000 → Altamente significativa
 
 La confianza en el Poder Judicial varía significativamente entre entidades federativas. Este hallazgo es estadísticamente sólido (p < .001), lo que indica que la ubicación geográfica a nivel estatal tiene un impacto real y relevante en las percepciones de legitimidad o funcionamiento del sistema judicial.
+
 Estas diferencias podrían estar asociadas a factores contextuales locales, como experiencias recientes con la justicia, niveles de impunidad, presencia de conflictos o dinámicas sociopolíticas específicas. El análisis abre la puerta para exploraciones más detalladas por entidad.
 
 Por región geográfica
+
 - La región Sur presenta el nivel de confianza más alto (media ≈ 7.0), mientras que el Centro muestra el más bajo (media ≈ 6.3). El Norte se sitúa en un punto medio.
+
 Significancia estadística
 F = 4.833
 p = 0.008 → Significativa
+
 Las diferencias regionales son estadísticamente significativas (p < .01), lo que indica que la región de residencia tiene un efecto importante en la confianza institucional.
 El patrón observado puede vincularse a discursos políticos regionalizados, acceso diferencial a la justicia, o percepción del sistema desde la experiencia cotidiana.
 El Sur podría mostrar mayor cercanía o afinidad con propuestas de reforma judicial, mientras que el Centro (incluyendo CDMX y áreas metropolitanas) podría exhibir mayor escepticismo institucional.
 
-Conocimiento de la fecha electoral judicial
+`Conocimiento de la fecha electoral judicial`
+
 Por edad
-Solo 16.9% de personas entre 18 y 24 años sabe que la elección es el 1 de junio, contra 12.8% entre 55 y 64.
-Gran número responde “Otra fecha” (hasta 29.4%).
+
+- Solo 16.9% de personas entre 18 y 24 años sabe que la elección es el 1 de junio, contra 12.8% entre 55 y 64.
+- Gran número responde “Otra fecha” (hasta 29.4%).
+
 Significancia
 χ² = 42.123, p < .001
 V de Cramer: 0.119 → Asociación moderada
+
 Existe confusión generalizada respecto a la fecha. Los adultos de mediana edad (35-54) tienen mejores niveles de acierto. Esto tiene implicaciones para campañas informativas.
 
 Por región
-El Centro tiene mejor conocimiento (58% acierta “1 de junio”).
-El Norte y el Sur muestran más respuestas “Desconoce” o “Otra fecha”.
+
+- El Centro tiene mejor conocimiento (58% acierta “1 de junio”).
+- El Norte y el Sur muestran más respuestas “Desconoce” o “Otra fecha”.
+
 Asociación
 χ² = 14.406, p = .025
 V de Cramer: 0.085 → Asociación baja pero significativa
-Interpretación
+
 Confirma lo visto en el conocimiento general: el Centro muestra mayor nivel de información electoral que otras regiones.
 
-Probabilidad de acudir a votar
+`Probabilidad de acudir a votar`
+
 Por edad
-Los jóvenes de 25 a 34 años reportan mayor intención de voto (26% muy probable).
-En adultos mayores, la disposición a votar cae (solo 11.6% en 55-64 años).
+
+- Los jóvenes de 25 a 34 años reportan mayor intención de voto (26% muy probable).
+- En adultos mayores, la disposición a votar cae (solo 11.6% en 55-64 años).
+
 Significancia
 χ² = 74.067, p < .001
 V de Cramer: 0.144 → Asociación moderada.
+
 Los adultos jóvenes tienen mayor movilización potencial, lo cual puede ser aprovechado en estrategias de participación.
 
 Por región
-El Centro domina nuevamente en “Muy probable” (53.9%), mientras que el Norte presenta niveles bajos (15.7%).
+
+- El Centro domina nuevamente en “Muy probable” (53.9%), mientras que el Norte presenta niveles bajos (15.7%).
+
 Significancia
 χ² = 28.160, p < .001
 V de Cramer: 0.109 → Asociación moderada-baja
+
 Existe una concentración geográfica del interés electoral, lo cual es clave para campañas diferenciales.
 
-Percepción de facilidad para votar
+`Percepción de facilidad para votar`
+
 Por sexo
-Las mujeres se sienten más confiadas: 57.1% dice que será “Muy fácil”, comparado con 42.9% en hombres.
+
+- Las mujeres se sienten más confiadas: 57.1% dice que será “Muy fácil”, comparado con 42.9% en hombres.
+
 Significancia
 χ² = 16.448, p = .001
 V de Cramer: 0.161 → Asociación moderada
+
 La percepción de facilidad para votar está positivamente asociada al sexo femenino, posiblemente por confianza en procesos o mejores condiciones percibidas.
 
 Por edad
-Los más jóvenes (18-24) y los adultos mayores reportan más barreras.
-El grupo de 25-34 años es el más positivo (21.6% dice “Muy fácil”).
+
+- Los más jóvenes (18-24) y los adultos mayores reportan más barreras.
+- El grupo de 25-34 años es el más positivo (21.6% dice “Muy fácil”).
+
 Significancia
 χ² = 65.386, p < .001
 V de Cramer: 0.186 → Asociación moderada-alta
+
 Se observa una curva en U: los extremos etarios enfrentan más desafíos logísticos o perciben más obstáculos.
 
 Por región
-El Centro lidera en percepción positiva (51.8% dice “Muy fácil”).
-En el Norte, la percepción es menos favorable.
+
+- El Centro lidera en percepción positiva (51.8% dice “Muy fácil”).
+- En el Norte, la percepción es menos favorable.
+
 Significancia
 χ² = 23.090, p < .001
 V de Cramer: 0.135 → Asociación moderada
+
 La región Centro sigue destacando en variables asociadas a confianza, conocimiento y disposición electoral.
 
-Conocimiento del número de boletas
+`Conocimiento del número de boletas`
+
 Por sexo
+
 - El 66.5% de quienes conocen cuántas boletas se entregarán son hombres, frente a 33.5% de mujeres.
+
 Significancia
 χ² = 30.889, p < .001
 V de Cramer: 0.221 → Asociación moderada
+
 Esta es una de las asociaciones más fuertes. Muestra una clara brecha de género en el conocimiento técnico del proceso electoral. Podría estar influida por el tipo de medios de información consultados o niveles de interés diferenciado por el sistema judicial.
 
-Forma de informarse sobre candidaturas
+`Forma de informarse sobre candidaturas`
+
 Por sexo
+
 - Las mujeres prefieren la televisión y redes sociales; los hombres consultan más periódicos e Internet.
+
 Significancia
 χ² = 26.489, p = .005
 V de Cramer: 0.205 → Asociación moderada
+
 Existen patrones diferenciados por género en el consumo de información política. Esto debe considerarse para diseñar estrategias de comunicación diferenciadas y eficaces para ambos grupos.
 
 Por edad
+
 - Los jóvenes (18-34) priorizan redes sociales e Internet. Los adultos mayores se inclinan por televisión, medios tradicionales y el INE.
+
 Significancia
 χ² = 139.056, p < .001
 V de Cramer: 0.210 → Asociación moderada
+
 Existe una clara segmentación generacional en las fuentes de información. Las campañas deben diversificar formatos y canales para evitar que ciertos grupos queden desinformados.
 
 Por región
+
 - El Centro muestra mayor concentración de medios digitales (Internet, redes sociales), mientras que el Norte y el Sur usan canales más mixtos o tradicionales.
+
 Significancia
 χ² = 69.603, p < .001
 V de Cramer: 0.234 → Asociación moderada
+
 La penetración digital es más alta en el Centro. Las campañas digitales deben reforzarse en regiones con menor conectividad o donde aún predominan medios tradicionales.
 
-Emoción que motiva el voto
+`Emoción que motiva el voto`
 
 Por sexo
+
 - Los hombres reportan más esperanza y entusiasmo; las mujeres, más compromiso cívico, pero también más desánimo.
+
 Significancia
 χ² = 51.081, p < .001
 V de Cramer: 0.284 → Asociación moderada-alta
+
 Las emociones que motivan el voto difieren sustancialmente entre hombres y mujeres. El enfoque emocional de las campañas debe ajustarse a estos patrones para mejorar su eficacia.
 
 Por edad
+
 - Jóvenes reportan emociones negativas (apatía, desánimo); los adultos mayores, emociones más cívicas y positivas.
+
 Significancia
 χ² = 130.041, p < .001
 V de Cramer: 0.203 → Asociación moderada
+
 La movilización emocional también está segmentada generacionalmente. La apatía entre los jóvenes puede dificultar su participación efectiva.
 
 Por región
+
 - El Centro reporta emociones positivas (esperanza, entusiasmo); el Norte muestra mayor presencia de emociones negativas.
+
 Significancia
 χ² = 48.227, p < .001
 V de Cramer: 0.195 → Asociación moderada
+
 El Norte podría requerir estrategias que contrarresten el desánimo y fortalezcan la esperanza o sentido de propósito en la elección.
 
-Opinión sobre si la elección mejorará el Poder Judicial
+`Opinión sobre si la elección mejorará el Poder Judicial`
 
 Por edad
+
 - El grupo de 25-34 años es el más optimista (29.6% piensa que mejorará). Los mayores de 65 años muestran mayor escepticismo.
+
 Significancia
 χ² = 66.662, p < .001
 V de Cramer: 0.167 → Asociación moderada
+
 La percepción del impacto positivo de la elección está más presente en adultos jóvenes. La experiencia previa y desconfianza institucional podría explicar el escepticismo en mayores.
 
 Por región
+
 - El Sur tiene mayor esperanza en la reforma (35.8% dice “mejorará”). En contraste, el Centro tiene el mayor porcentaje de respuestas negativas (“empeorará”: 62.6%).
+
 Significancia
 χ² = 44.341, p < .001
 V de Cramer: 0.136 → Asociación moderada
+
 El Sur mantiene expectativas más favorables; el Centro, a pesar de estar más informado, es más crítico. Esto refuerza la hipótesis de que mayor conocimiento puede conllevar mayor escepticismo.
 
 
@@ -454,22 +526,27 @@ El Sur mantiene expectativas más favorables; el Centro, a pesar de estar más i
 
 # Regresión logística – Probabilidad de votar
 Se desarrollaron modelos de regresión logística binaria sobre la probabilidad de votar, a partir de las siguientes variables predictoras:
-Sexo
-Edad
-Región geográfica
-Conocimiento sobre el proceso electoral (sabía que se elige a ministros, ministras, jueces)
-Nivel de confianza en el Poder Judicial
-Medio principal de información
-Emoción o sentimiento motivador del voto
-Interacciones entre conocimiento y edad, y entre conocimiento y sexo
-La variable dependiente fue la probabilidad de acudir a votar, dicotomizada como “Muy probable” (1) vs. “Otro” (0).
+- Sexo
+- Edad
+- Región geográfica
+- Conocimiento sobre el proceso electoral (sabía que se elige a ministros, ministras, jueces)
+- Nivel de confianza en el Poder Judicial
+- Medio principal de información
+- Emoción o sentimiento motivador del voto
+- Interacciones entre conocimiento y edad, y entre conocimiento y sexo
+
+**La variable dependiente fue la probabilidad de acudir a votar, dicotomizada como “Muy probable” (1) vs. “Otro” (0).**
 
 - Modelo general
+
 Resumen y bondad de ajuste
+
 El modelo general es estadísticamente significativo (χ² = 31.867, gl = 7, p < .001), lo cual indica que, en conjunto, las variables incluidas mejoran la capacidad predictiva respecto al modelo nulo.
 El pseudo R² de Nagelkerke es .083, lo que sugiere un efecto explicativo modesto del modelo completo.
 Clasificación general correcta: 83.2%, aunque esto es resultado de un sesgo de clasificación hacia la categoría mayoritaria (“Muy probable”).
+
 Variables significativas
+
 Las variables que muestran una asociación estadísticamente significativa con la probabilidad de votar son:
 
 
