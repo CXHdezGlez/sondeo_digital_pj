@@ -5,12 +5,14 @@ Este informe presenta los resultados del sondeo digital nacional sobre percepcio
 # Metodología
 
 `Tipo de estudio`
+
 El presente estudio se basa en un sondeo digital de opinión pública, diseñado para recoger percepciones, actitudes, conocimientos e intenciones de voto de la ciudadanía mexicana ante la propuesta de elección directa de cargos del Poder Judicial federal. El enfoque es cuantitativo, transversal y no experimental, con análisis descriptivos e inferenciales.
 
 `Población objetivo`
+
 La población objetivo corresponde a ciudadanos y ciudadanas mexicanas en edad de votar (18 años o más), con residencia en México y con acceso a plataformas digitales. La muestra fue ajustada para reflejar las distribuciones poblacionales oficiales según:
 
-Entidad federativa
+- Entidad federativa
 
 - Grupo de edad (6 rangos)
 
@@ -46,11 +48,13 @@ Esto permitió asignar ponderadores a cada caso:
 - peso_raking: ponderador final combinado.
 
 `Margen de error y nivel de confianza`
+
 Con una muestra de n = 1,200 casos y un diseño sin efectos complejos, el margen de error estimado es de ±2.8 puntos porcentuales, bajo el supuesto de muestreo aleatorio simple y un nivel de confianza del 95%.
 
 🔍 Este margen aplica a estimaciones para el total de la muestra. En análisis por subgrupos (ej. edad, sexo, región), el margen puede ser mayor.
 
 `Instrumento y levantamiento`
+
 Se empleó un cuestionario estructurado, autoaplicado a través de una plataforma digital. El cuestionario incluyó:
 
 - Preguntas de opción múltiple (simples y combinadas)
@@ -62,6 +66,7 @@ Se empleó un cuestionario estructurado, autoaplicado a través de una plataform
 El levantamiento se realizó entre febrero y marzo de 2025.
 
 `Análisis estadístico`
+
 Los análisis se realizaron con IBM SPSS Statistics v27 y Python. Se aplicaron los siguientes métodos:
 
 - Análisis de frecuencias y proporciones ponderadas
